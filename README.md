@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo! What's up? 😎
 
 <!--
 **malak29/malak29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=malak29&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
