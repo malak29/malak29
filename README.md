@@ -16,4 +16,4 @@ I create digital art—sketching, painting, and sharing on Instagram. ✏️🎨
 
 Competitive gamer enhancing reflexes through Counter-Strike and Dota. 🎮🔥
 
-Visit my portfolio: [Malak's Portfolio](https://malak29.github.io/)
+Do Visit my [Portfolio](https://malak29.github.io/)
