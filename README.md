@@ -2,7 +2,7 @@
 
 I'm Malak Parmar!
 
-Passionate software engineer exploring AI, machine learning, and vision. 🤖💡
+Passionate software engineer exploring AI, machine learning, and Computer vision. 🤖💡
 
 Four years' experience in agile machine learning & full-stack product development. 🖥️📈
 
