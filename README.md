@@ -4,7 +4,7 @@ I'm Malak Parmar!
 
 Passionate software engineer exploring AI, machine learning, and vision. 🤖💡
 
-Five years' experience in agile machine learning & full-stack product development. 🖥️📈
+Four years' experience in agile machine learning & full-stack product development. 🖥️📈
 
 Specialized in user-centric design and microservice & micro frontend architecture. 👨‍💻🛠️
 
