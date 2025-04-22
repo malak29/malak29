@@ -1,17 +1,19 @@
-### Hello! How is it going? 😎
+### Hello! 👋 How is it going? 😎
 
-<!--
-**malak29/malak29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Malak Parmar!
 
-Here are some ideas to get you started:
+Passionate software engineer exploring AI, machine learning, and vision. 🤖💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+Five years' experience in agile machine learning & full-stack product development. 🖥️📈
+
+Specialized in user-centric design and microservice & micro frontend architecture. 👨‍💻🛠️
+
+Deep curiosity fuels my drive to master innovative AI solutions. 🤓
+
+Anime and movies inspire my creativity and visual storytelling approach. 🎬
+
+I create digital art—sketching, painting, and sharing on Instagram. ✏️🎨
+
+Competitive gamer enhancing reflexes through Counter-Strike and Dota. 🎮🔥
+
+Visit my portfolio: [Malak's Portfolio](https://malak29.github.io/)
