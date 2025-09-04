@@ -16,7 +16,7 @@ I create digital art—sketching, painting, and sharing on Instagram. ✏️🎨
 
 Competitive gamer enhancing reflexes through Counter-Strike and Dota. 🎮🔥
 
-Do visit my [Portfolio ](https://malak29.github.io)!
+Do visit my [Portfolio ](https://malak29.github.io)! & Checkout my [CV]([https://malak29.github.io](https://drive.google.com/file/d/1i9qaMD1Ny2qKc4SCyisybIJYRBMcR--j/view))!
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-username)
 
